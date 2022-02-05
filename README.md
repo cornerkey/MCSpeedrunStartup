@@ -2,10 +2,10 @@
 A Python script that open all the different programs that is used in modern minecraft speedrunning
 
 First of all you need python to run this script 
-Link: https://www.python.org/downloads/
+-Link: https://www.python.org/downloads/
 
 You also need MultiMC
-Link: https://multimc.org/#Download
+-Link: https://multimc.org/#Download
 
 This is a development I made to help myself and I decided to release it because i think other poeple might be usefull.
 
